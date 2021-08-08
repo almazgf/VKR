@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.3.7)  8 APR 2021 05:35
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.3.7)  8 AUG 2021 11:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1031,83 +1031,190 @@ Underfull \hbox (badness 6608) in paragraph at lines 6--12
 ределенным цветом
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+[]\TU/TimesNewRoman(1)/m/n/14.4 Целью данной работы является разработка клиент-
+серверного
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 13--16
+\TU/TimesNewRoman(1)/m/n/14.4 приложения «ShoppingAssistant», ориентированное н
+а людей следящих за
+ []
+
 [3
 
-]) (./inc/requirements_specification.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--8
-[]\TU/TimesNewRoman(1)/m/n/14.4 Разработать клиент-серверное приложения «Shoppi
-ngAssistant».
- []
-
-
-Underfull \hbox (badness 7796) in paragraph at lines 4--8
-\TU/TimesNewRoman(1)/m/n/14.4 Приложение «ShoppingAssistant» ориентирована на л
-юдей следящих за
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--17
+]
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
 []\TU/TimesNewRoman(1)/m/n/14.4 При релизации сервера придерживаться архитектур
 ного стиля
  []
 
 
-Underfull \hbox (badness 4608) in paragraph at lines 15--17
+Underfull \hbox (badness 4608) in paragraph at lines 22--24
 \TU/TimesNewRoman(1)/m/n/14.4 Programming Interfaces — «интерфейс прикладного п
 рограммирования»).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--17
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
 \TU/TimesNewRoman(1)/m/n/14.4 Использовать данные полученные и подготовленные в
  рамках курса
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 15--17
+Underfull \hbox (badness 1259) in paragraph at lines 22--24
 \TU/TimesNewRoman(1)/m/n/14.4 «Нереляционные базы данных». При реализации клиен
 тского приложения
  []
 
+[4]) (./inc/requirements_specification.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+[]\TU/TimesNewRoman(1)/m/n/14.4 Пользователь – потенциальный клиент пользующийс
+я услугами
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+Underfull \hbox (badness 6236) in paragraph at lines 12--14
+[]\TU/TimesNewRoman(1)/m/n/14.4 Целью пользователя является получение информаци
+и о продукте.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+\TU/TimesNewRoman(1)/m/n/14.4 Поэтому пользователю необходимо предоставить удоб
+ный инструмент
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 12--14
+\TU/TimesNewRoman(1)/m/n/14.4 для поиска продуктов в разрабатываемом сервисе. Д
+ля этого необходимо
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 12--14
+\TU/TimesNewRoman(1)/m/n/14.4 однозначно идентифицировать продукты в системе. О
+дним из возможных
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 12--14
+\TU/TimesNewRoman(1)/m/n/14.4 вариантов решения этой проблемы, является использ
+ование штрих-кода.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+\TU/TimesNewRoman(1)/m/n/14.4 Рассмотрим более подробно процесс маркировки това
+ров и выясним
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+\TU/TimesNewRoman(1)/m/n/14.4 целесообразность использования штрих-кода в качес
+тве уникального
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--18
+\TU/TimesNewRoman(1)/m/n/14.4 товаров, предоставляющая возможность считывания е
+ё техническими
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 15--18
+\TU/TimesNewRoman(1)/m/n/14.4 средствами. Двоичная система цифр обеспечивает уд
+обную запись штрих
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 15--18
+\TU/TimesNewRoman(1)/m/n/14.4 кодов. Штрихи обозначаются цифрой «1», а пробелы 
+«0». В штрих-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--18
+\TU/TimesNewRoman(1)/m/n/14.4 код зашифровывается номер GTIN. GTIN обеспечивает
+ однозначную
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 15--18
+\TU/TimesNewRoman(1)/m/n/14.4 идентификацию товара в любой стране мира и не мож
+ет быть присвоен
+ []
+
+[5
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+[]\TU/TimesNewRoman(1)/m/n/14.4 Нанесение штрих-кода на товар осуществляет прои
+зводитель с
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 24--25
+\TU/TimesNewRoman(1)/m/n/14.4 применением данных о стране местонахождения и код
+а производителя.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
 []\TU/TimesNewRoman(1)/m/n/14.4 Реализуемый сервис должен удовлетворять следующ
 им
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 []\TU/TimesNewRoman(1)/m/n/14.4 Авторизация пользователя. Процесс аутентификаци
 и пользователя
  []
 
-[4
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 []\TU/TimesNewRoman(1)/m/n/14.4 Для реализуемого сервиса предъявляются следующи
 е системные
  []
 
 
-Underfull \hbox (badness 4752) in paragraph at lines 39--40
+Underfull \hbox (badness 4752) in paragraph at lines 45--46
 []\TU/TimesNewRoman(1)/m/n/14.4 Для передачи данных клиенту и взаимодействия с 
 базой данных
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 40--41
+Underfull \hbox (badness 5878) in paragraph at lines 46--47
 []\TU/TimesNewRoman(1)/m/n/14.4 Для реализации системы авторизации использовать
  технологию и
  []
 
 
-Underfull \hbox (badness 7344) in paragraph at lines 41--42
+Underfull \hbox (badness 7344) in paragraph at lines 47--48
 []\TU/TimesNewRoman(1)/m/n/14.4 Импортировать в базу данных разрабатываемого се
 рвера данные,
  []
 
-[5])
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+[]\TU/TimesNewRoman(1)/m/n/14.4 «Состав продуктов» – приложение предоставляет и
+нформацию о
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 73--74
+\TU/TimesNewRoman(1)/m/n/14.4 питательной ценности продуктов и их химическом со
+ставе: содержание
+ []
+
+[8])
 \openout2 = `inc/development_tools.aux'.
 
  (./inc/development_tools.tex
@@ -1188,7 +1295,7 @@ Underfull \hbox (badness 7963) in paragraph at lines 9--10
 ностью или
  []
 
-[6
+[9
 
 
 
@@ -1228,7 +1335,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 ьных внутренних
  []
 
-[7]
+[10]
 Underfull \hbox (badness 7273) in paragraph at lines 18--20
 \TU/TimesNewRoman(1)/m/n/14.4 данных в нотации объекта JavaScript. Предназначен
  JSON, также как
@@ -1276,7 +1383,7 @@ Underfull \hbox (badness 2846) in paragraph at lines 27--29
  более сторонами
  []
 
-[8]
+[11]
 Underfull \hbox (badness 1436) in paragraph at lines 33--35
 \TU/TimesNewRoman(1)/m/n/14.4 части соединяются друг с другом, и на их основе в
 ычисляется подпись,
@@ -1294,7 +1401,7 @@ Underfull \hbox (badness 1789) in paragraph at lines 45--46
 идентифицировать
  []
 
-[9]
+[12]
 Underfull \hbox (badness 1178) in paragraph at lines 54--56
 \TU/TimesNewRoman(1)/m/n/14.4 задает общую архитектуру приложения. MVVM паттерн
  был представлен
@@ -1314,80 +1421,195 @@ Underfull \hbox (badness 5374) in paragraph at lines 65--66
 терфейс, через
  []
 
-[10])
-\openout2 = `inc/development_server.aux'.
+[13]
+File: images/Android-Architecture.png Graphic file (type bmp)
+<images/Android-Architecture.png>
 
- (./inc/development_server.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
-[]\TU/TimesNewRoman(1)/m/n/14.4 Для проектирования системы использовался универ
-сальный язык
+Underfull \hbox (badness 8113) in paragraph at lines 70--71
+\TU/TimesNewRoman(1)/m/n/14.4 планшетов и других устройств, которая основываетс
+я на ядре Linux.
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 10--12
+Underfull \hbox (badness 3118) in paragraph at lines 70--71
+\TU/TimesNewRoman(1)/m/n/14.4 Изначально ОС Android разрабатывала компания Andr
+oid Inc., но затем
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+\TU/TimesNewRoman(1)/m/n/14.4 ее купила компания Google. На рисунке [][]2[][] п
+редставлена архитектура
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+\TU/TimesNewRoman(1)/m/n/14.4 базовых приложений: клиенты электронной почты и S
+MS, календарь,
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]\TU/TimesNewRoman(1)/m/n/14.4 Система представлений (View System) – это богат
+ый набор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+[]\TU/TimesNewRoman(1)/m/n/14.4 Контент-провайдеры (Content Providers) – это сл
+ужбы, которые
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 80--81
+[]\TU/TimesNewRoman(1)/m/n/14.4 Менеджер ресурсов (Resource Manager) предназнач
+ен для доступа к
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+[]\TU/TimesNewRoman(1)/m/n/14.4 Менеджер извещений (Notification Manager) позво
+ляет любому
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+\TU/TimesNewRoman(1)/m/n/14.4 приложению отображать пользовательские уведомлени
+я в строке
+ []
+
+
+Underfull \hbox (badness 7981) in paragraph at lines 87--88
+[]\TU/TimesNewRoman(1)/m/n/14.4 Уровень среды исполнения (Android Runtime). В с
+остав Android
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 87--88
+\TU/TimesNewRoman(1)/m/n/14.4 входит набор библиотек ядра, которые предоставляю
+т большую часть
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 87--88
+\TU/TimesNewRoman(1)/m/n/14.4 функциональности библиотек ядра языка Java. В And
+roid используется
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+\TU/TimesNewRoman(1)/m/n/14.4 собственная реализация JVM под названием Android 
+Runtime (ART),
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 87--88
+\TU/TimesNewRoman(1)/m/n/14.4 специально оптимизированная для работы на мобильн
+ых устройствах. В
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+\TU/TimesNewRoman(1)/m/n/14.4 памятью и процессами, обеспечение безопасности, р
+абота с сетью и
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 89--90
+\TU/TimesNewRoman(1)/m/n/14.4 драйверами. Также ядро служит слоем абстракции ме
+жду аппаратным и
+ []
+
+[15]
+Underfull \hbox (badness 6032) in paragraph at lines 93--95
+[]\TU/TimesNewRoman(1)/m/n/14.4 Исходя из системных требований предъявляемых к 
+реализуемому
+ []
+
+
+Underfull \hbox (badness 5652) in paragraph at lines 93--95
+\TU/TimesNewRoman(1)/m/n/14.4 серверу, к выбору инструментов разработки наклады
+ваются следующие
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 100--102
 []\TU/TimesNewRoman(1)/m/n/14.4 В качестве базы данных было решено использовать
  NoSQL СУБД
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 10--12
+Underfull \hbox (badness 2452) in paragraph at lines 100--102
 \TU/TimesNewRoman(1)/m/n/14.4 MongoDB[[]]. Подробное изучение данной СУБД позво
 лило выявить ряд
  []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 12--13
+Underfull \hbox (badness 3895) in paragraph at lines 102--103
 []\TU/TimesNewRoman(1)/m/n/14.4 Документоориентированность – СУБД предназначена
  для хранения
  []
 
 
-Underfull \hbox (badness 7030) in paragraph at lines 13--14
+Underfull \hbox (badness 7030) in paragraph at lines 103--104
 []\TU/TimesNewRoman(1)/m/n/14.4 Представление в формате JSON – формат данных JS
 ON удобен
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 \TU/TimesNewRoman(1)/m/n/14.4 в интерпретации и использовании. В виду того, что
  серверная
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 \TU/TimesNewRoman(1)/m/n/14.4 составляющая должна предоставлять RestAPI, MongoD
 B отлично
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 16--17
+Underfull \hbox (badness 7667) in paragraph at lines 106--107
 []\TU/TimesNewRoman(1)/m/n/14.4 Документация и ПО – данная СУБД является ПО с о
 ткрытым
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
 []\TU/TimesNewRoman(1)/m/n/14.4 Исходя из системных требований к проектируемому
  сервису,
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 19--20
+Underfull \hbox (badness 3291) in paragraph at lines 109--110
 \TU/TimesNewRoman(1)/m/n/14.4 данного СУБД. Это позволит исключить использовани
 е дополнительных
  []
 
-
-Underfull \hbox (badness 1728) in paragraph at lines 21--23
-\TU/TimesNewRoman(1)/m/n/14.4 ции. Ниже описаны используемые коллекции с перечи
-слением ключевых
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+[]\TU/TimesNewRoman(1)/m/n/14.4 Для реализации сервера используется язык програ
+ммирования
  []
 
-[11
+
+Underfull \hbox (badness 1983) in paragraph at lines 111--113
+\TU/TimesNewRoman(1)/m/n/14.4 Python версии 3.8.5 и фреймворк для создания веб-
+приложений Flask[[]].
+ []
 
 
+Underfull \hbox (badness 4819) in paragraph at lines 111--113
+\TU/TimesNewRoman(1)/m/n/14.4 Flask предоставляет гибкую настройку веб-приложен
+ия с минимальным
+ []
 
-]
+
+Underfull \hbox (badness 2245) in paragraph at lines 111--113
+\TU/TimesNewRoman(1)/m/n/14.4 среде разработки PyCharm версии 2020.3.3. Для вза
+имодействия с базой
+ []
+
 
 Package fontspec Info: Font family 'FreeMono(1)' created for font 'FreeMono'
 (fontspec)             with options
@@ -1434,32 +1656,111 @@ text;"
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
- [12]
-Underfull \hbox (badness 1067) in paragraph at lines 65--66
+
+Underfull \hbox (badness 7888) in paragraph at lines 118--119
+\TU/TimesNewRoman(1)/m/n/14.4 для обращения к данным. Благодаря тому, что данна
+я база является
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+\TU/TimesNewRoman(1)/m/n/14.4 документоориентированной с представлением объекто
+в в типе BSON
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 120--122
+\TU/TimesNewRoman(1)/m/n/14.4 Flask-JWT-Extended[[]], которое реализует весь не
+обходимый функционал.
+ []
+
+
+Underfull \hbox (badness 4266) in paragraph at lines 120--122
+\TU/TimesNewRoman(1)/m/n/14.4 Для встраивания данного функционала в программный
+ код, достаточно
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 120--122
+\TU/TimesNewRoman(1)/m/n/14.4 добавить к методам ресурсов соответствующие декор
+аторы доступа. При
+ []
+
+[17])
+\openout2 = `inc/development_server.aux'.
+
+ (./inc/development_server.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+[]\TU/TimesNewRoman(1)/m/n/14.4 Для проектирования системы использовался универ
+сальный язык
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+[]\TU/TimesNewRoman(1)/m/n/14.4 В качестве СУБД для нашего проекта мы выбрали M
+ongoDB.
+ []
+
+
+Underfull \hbox (badness 5022) in paragraph at lines 11--13
+\TU/TimesNewRoman(1)/m/n/14.4 Актуальность выбора мы описали в предыдущей главе
+. Данное СУБД
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 13--14
+\TU/TimesNewRoman(1)/m/n/14.4 могут хранить как простое значение, так и вложенн
+ые объекты и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+\TU/TimesNewRoman(1)/m/n/14.4 идентификатор. При добавлении документа в коллекц
+ию данный
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 26--27
+[]\TU/TimesNewRoman(1)/m/n/14.4 Контейнерами сущностей в MongoDB являются колле
+кции. Ниже
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 26--27
+\TU/TimesNewRoman(1)/m/n/14.4 представлены описание структуры документов для ка
+ждой коллекции с
+ []
+
+[18
+
+
+
+] [19]
+Underfull \hbox (badness 1067) in paragraph at lines 71--72
 []\TU/TimesNewRoman(1)/m/n/14.4 В черном списке будут храниться токены обновлен
 ия пользователей
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 65--66
+Underfull \hbox (badness 2671) in paragraph at lines 71--72
 \TU/TimesNewRoman(1)/m/n/14.4 с неистекшим сроком жизни, чтобы исключить возмож
 ность повторного
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 65--66
+Underfull \hbox (badness 1132) in paragraph at lines 71--72
 \TU/TimesNewRoman(1)/m/n/14.4 использования для получения токена доступа. По ис
 течении срока жизни
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 69--72
+Underfull \hbox (badness 1661) in paragraph at lines 75--78
 []\TU/TimesNewRoman(1)/m/n/14.4 Для описания общего представления о функциональ
 ном назначении
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--72
+Underfull \hbox (badness 10000) in paragraph at lines 75--78
 \TU/TimesNewRoman(1)/m/n/14.4 платформы была разработана диаграмма вариантов ис
 пользования
  []
@@ -1467,43 +1768,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--72
 File: images/usecase.png Graphic file (type bmp)
 <images/usecase.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
 []\TU/TimesNewRoman(1)/m/n/14.4 Авторизованный пользователь имеет следующие вар
 ианты
  []
 
 
-Underfull \hbox (badness 4647) in paragraph at lines 85--86
+Underfull \hbox (badness 4647) in paragraph at lines 91--92
 []\TU/TimesNewRoman(1)/m/n/14.4 получение продукта – получение полной информаци
 и о продукте
  []
 
-[13]
-Underfull \hbox (badness 4279) in paragraph at lines 86--87
+[20]
+Underfull \hbox (badness 4279) in paragraph at lines 92--93
 []\TU/TimesNewRoman(1)/m/n/14.4 добавление недопустимых продуктов – добавление 
 нежелательного
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 90--93
+Underfull \hbox (badness 2119) in paragraph at lines 96--99
 \TU/TimesNewRoman(1)/m/n/14.4 Ресурс в REST-архитектуре является ключевой абстр
 акцией информации.
  []
 
 
-Underfull \hbox (badness 2088) in paragraph at lines 90--93
+Underfull \hbox (badness 2088) in paragraph at lines 96--99
 \TU/TimesNewRoman(1)/m/n/14.4 Любая информация, которая может быть названа, мож
 ет быть ресурсом.
  []
 
 
-Underfull \hbox (badness 3009) in paragraph at lines 90--93
+Underfull \hbox (badness 3009) in paragraph at lines 96--99
 \TU/TimesNewRoman(1)/m/n/14.4 Сам Рой Филдинг в своей диссертации дает такое оп
 ределение:«Любая
  []
 
 
-Underfull \hbox (badness 4229) in paragraph at lines 90--93
+Underfull \hbox (badness 4229) in paragraph at lines 96--99
 \TU/TimesNewRoman(1)/m/n/14.4 словами, любое понятие, которое может быть объект
 ом гипертекстовой
  []
@@ -1511,222 +1812,159 @@ Underfull \hbox (badness 4229) in paragraph at lines 90--93
 File: images/user_resource.png Graphic file (type bmp)
 <images/user_resource.png>
 
-Underfull \hbox (badness 1137) in paragraph at lines 99--100
+Underfull \hbox (badness 1137) in paragraph at lines 105--106
 \TU/TimesNewRoman(1)/m/n/14.4 В зависимости успешности действия возвращается со
 ответствующй ответ.
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 99--100
-\TU/TimesNewRoman(1)/m/n/14.4 На рисунках [][]4[][] – [][]6[][] представлены мо
+Underfull \hbox (badness 3954) in paragraph at lines 105--106
+\TU/TimesNewRoman(1)/m/n/14.4 На рисунках [][]5[][] – [][]7[][] представлены мо
 дели для остальных ресурсов. Не
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 99--100
+Underfull \hbox (badness 1009) in paragraph at lines 105--106
 \TU/TimesNewRoman(1)/m/n/14.4 будем приводить описание для каждого ресурса, так
  как они анологичны
  []
 
-[14]
+[21]
 File: images/product_resourse.png Graphic file (type bmp)
 <images/product_resourse.png>
 File: images/unacceptable_product.png Graphic file (type bmp)
 <images/unacceptable_product.png>
+
+Overfull \hbox (14.51031pt too wide) in paragraph at lines 108--108
+ [][] 
+ []
+
 File: images/token_resourse.png Graphic file (type bmp)
 <images/token_resourse.png>
- [15]
-Underfull \hbox (badness 10000) in paragraph at lines 105--108
-\TU/TimesNewRoman(1)/m/n/14.4 В соответствии с функциональными требованиями к п
-латформе была
- []
-
-[16]
-Underfull \hbox (badness 6032) in paragraph at lines 111--113
-[]\TU/TimesNewRoman(1)/m/n/14.4 Исходя из системных требований предъявляемых к 
-реализуемому
+[22]
+Underfull \hbox (badness 3482) in paragraph at lines 111--113
+[]\TU/TimesNewRoman(1)/m/n/14.4 Опираясь на спроектированные модели, были разра
+ботаны методы
  []
 
 
-Underfull \hbox (badness 5652) in paragraph at lines 111--113
-\TU/TimesNewRoman(1)/m/n/14.4 серверу, к выбору инструментов разработки наклады
-ваются следующие
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+\TU/TimesNewRoman(1)/m/n/14.4 в приложении А. Ниже приводится описание основных
+ параметров
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--120
-[]\TU/TimesNewRoman(1)/m/n/14.4 Для реализации сервера используется язык програ
-ммирования
- []
-
-
-Underfull \hbox (badness 1983) in paragraph at lines 118--120
-\TU/TimesNewRoman(1)/m/n/14.4 Python версии 3.8.5 и фреймворк для создания веб-
-приложений Flask[[]].
- []
-
-
-Underfull \hbox (badness 4819) in paragraph at lines 118--120
-\TU/TimesNewRoman(1)/m/n/14.4 Flask предоставляет гибкую настройку веб-приложен
-ия с минимальным
- []
-
-
-Underfull \hbox (badness 2245) in paragraph at lines 118--120
-\TU/TimesNewRoman(1)/m/n/14.4 среде разработки PyCharm версии 2020.3.3. Для вза
-имодействия с базой
- []
-
-
-Underfull \hbox (badness 7888) in paragraph at lines 125--126
-\TU/TimesNewRoman(1)/m/n/14.4 для обращения к данным. Благодаря тому, что данна
-я база является
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
-\TU/TimesNewRoman(1)/m/n/14.4 документоориентированной с представлением объекто
-в в типе BSON
- []
-
-
-Underfull \hbox (badness 2903) in paragraph at lines 127--129
-\TU/TimesNewRoman(1)/m/n/14.4 Flask-JWT-Extended[[]], которое реализует весь не
-обходимый функционал.
- []
-
-
-Underfull \hbox (badness 4266) in paragraph at lines 127--129
-\TU/TimesNewRoman(1)/m/n/14.4 Для встраивания данного функционала в программный
- код, достаточно
- []
-
-
-Underfull \hbox (badness 1783) in paragraph at lines 127--129
-\TU/TimesNewRoman(1)/m/n/14.4 добавить к методам ресурсов соответствующие декор
-аторы доступа. При
- []
-
-[17]
-Underfull \hbox (badness 5741) in paragraph at lines 135--137
+[23]
+Underfull \hbox (badness 5741) in paragraph at lines 113--115
 []\TU/TimesNewRoman(1)/m/n/14.4 SECRET KEY – секретный ключ, который использует
  Flask при
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 135--137
+Underfull \hbox (badness 1354) in paragraph at lines 113--115
 \TU/TimesNewRoman(1)/m/n/14.4 его для генерации подписи при создании токенов. С
 екретный ключ
  []
 
 
-Underfull \hbox (badness 1490) in paragraph at lines 135--137
+Underfull \hbox (badness 1490) in paragraph at lines 113--115
 \TU/TimesNewRoman(1)/m/n/14.4 хранится отдельно от программного кода и передает
 ся посредством
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 143--144
-[]\TU/TimesNewRoman(1)/m/n/14.4 Опираясь на модели спроектированные в предыдуще
-й главе, были
- []
-
-
-Underfull \hbox (badness 5817) in paragraph at lines 143--144
-\TU/TimesNewRoman(1)/m/n/14.4 разработаны методы для каждого ресурса требуемые 
-для полноценной
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\TU/TimesNewRoman(1)/m/n/14.4 работы сервиса, которым присвоены соответствующие
- маршруты. В
- []
-
-
-Underfull \hbox (badness 6125) in paragraph at lines 143--144
-\TU/TimesNewRoman(1)/m/n/14.4 таблице [][]1[][] приводится описание всех реализ
-ованных методов. Листинг
- []
-
-
-Underfull \hbox (badness 2253) in paragraph at lines 152--154
-\TU/TimesNewRoman(1)/m/n/14.4 гументами. Результатом является сообщение
- []
-
-
-Underfull \hbox (badness 3407) in paragraph at lines 155--157
-\TU/TimesNewRoman(1)/m/n/14.4 токены, либо сообщеие о соответствующей
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--160
-\TU/TimesNewRoman(1)/m/n/14.4 ного refresh-токена. Результатом является
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--161
-[]\TU/TimesNewRoman(1)/m/n/14.4 /unacceptable
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
-[]\TU/TimesNewRoman(1)/m/n/14.4 Добавление недопустимого продукта
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
-\TU/TimesNewRoman(1)/m/n/14.4 для пользователя. Необходим заголовок
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
-\TU/TimesNewRoman(1)/m/n/14.4 об успешном добавлении продукта, либо
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
-[]\TU/TimesNewRoman(1)/m/n/14.4 /unacceptable
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
-\TU/TimesNewRoman(1)/m/n/14.4 об успешном удалении продукта, либо
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
-\TU/TimesNewRoman(1)/m/n/14.4 сообщеие о соответствующей ошибке с
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
-[]\TU/TimesNewRoman(1)/m/n/14.4 Получение информации о продукте по
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
-\TU/TimesNewRoman(1)/m/n/14.4 преданному штрих-коду. Необходим
- []
-
-
-Underfull \hbox (badness 1184) in paragraph at lines 165--166
-\TU/TimesNewRoman(1)/m/n/14.4 заголовок авторизации. Результатом является
- []
-
-
-Overfull \hbox (2.30313pt too wide) in paragraph at lines 148--169
-[][]
- []
-
-[18]
-Underfull \hbox (badness 6893) in paragraph at lines 171--172
+Underfull \hbox (badness 6893) in paragraph at lines 121--122
 \TU/TimesNewRoman(1)/m/n/14.4 Refresh-токен позволяет клиентам запрашивать новы
 е access-токены по
  []
 
-[19]) (./inc/development_client.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+Underfull \hbox (badness 2253) in paragraph at lines 130--132
+\TU/TimesNewRoman(1)/m/n/14.4 гументами. Результатом является сообщение
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 133--135
+\TU/TimesNewRoman(1)/m/n/14.4 токены, либо сообщеие о соответствующей
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+\TU/TimesNewRoman(1)/m/n/14.4 ного refresh-токена. Результатом является
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+[]\TU/TimesNewRoman(1)/m/n/14.4 /unacceptable
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+[]\TU/TimesNewRoman(1)/m/n/14.4 Добавление недопустимого продукта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\TU/TimesNewRoman(1)/m/n/14.4 для пользователя. Необходим заголовок
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\TU/TimesNewRoman(1)/m/n/14.4 об успешном добавлении продукта, либо
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]\TU/TimesNewRoman(1)/m/n/14.4 /unacceptable
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\TU/TimesNewRoman(1)/m/n/14.4 об успешном удалении продукта, либо
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\TU/TimesNewRoman(1)/m/n/14.4 сообщеие о соответствующей ошибке с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+[]\TU/TimesNewRoman(1)/m/n/14.4 Получение информации о продукте по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+\TU/TimesNewRoman(1)/m/n/14.4 преданному штрих-коду. Необходим
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 143--144
+\TU/TimesNewRoman(1)/m/n/14.4 заголовок авторизации. Результатом является
+ []
+
+
+Overfull \hbox (2.30313pt too wide) in paragraph at lines 126--147
+[][]
+ []
+
+[24]
+Underfull \hbox (badness 4913) in paragraph at lines 150--153
+\TU/TimesNewRoman(1)/m/n/14.4 приложения соответствующая архитектурному стилю R
+EST. Отображена
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--153
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 \TU/TimesNewRoman(1)/m/n/14.4 нашего приложения. Для изображения диаграммы испо
 льзована среда
  []
@@ -1734,101 +1972,103 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 File: images/MVVM.png Graphic file (type bmp)
 <images/MVVM.png>
 
-Underfull \hbox (badness 3746) in paragraph at lines 13--14
+Underfull \hbox (badness 3746) in paragraph at lines 164--165
 []\TU/TimesNewRoman(1)/m/n/14.4 На него можно подписаться и получать объекты, к
 оторые в него
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 16--17
+Underfull \hbox (badness 7667) in paragraph at lines 167--168
 []\TU/TimesNewRoman(1)/m/n/14.4 Activity подписывается на LiveData и получает д
 анные, которые
  []
 
-[20
 
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 21--23
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
 []\TU/TimesNewRoman(1)/m/n/14.4 Пользовательский интерфейс приложения состоит и
 з 5
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
+
+ []
+
+[26]
 File: images/NavGraf.png Graphic file (type bmp)
 <images/NavGraf.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--36
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
 []\TU/TimesNewRoman(1)/m/n/14.4 Рассмотрим подробнее реализованные страницы при
 ложения. На
  []
 
 
-Underfull \hbox (badness 6157) in paragraph at lines 34--36
-\TU/TimesNewRoman(1)/m/n/14.4 рисунке [][]9[][] представлена разработанная дома
-шняя страница клиентского
+Underfull \hbox (badness 3536) in paragraph at lines 183--186
+\TU/TimesNewRoman(1)/m/n/14.4 рисунке [][]10[][] представлена разработанная дом
+ашняя страница клиентского
  []
 
-[21]
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
+
+ []
+
+[27]
 File: images/home.png Graphic file (type bmp)
 <images/home.png>
 File: images/compos.png Graphic file (type bmp)
 <images/compos.png>
 
-Underfull \hbox (badness 2744) in paragraph at lines 43--44
+Underfull \hbox (badness 2744) in paragraph at lines 193--194
 []\TU/TimesNewRoman(1)/m/n/14.4 При условии отсутствия исключении вовремя выпол
 нения запроса,
  []
 
-[22]
-Underfull \hbox (badness 4217) in paragraph at lines 45--46
+[28]
+Underfull \hbox (badness 4217) in paragraph at lines 195--196
 \TU/TimesNewRoman(1)/m/n/14.4 используется SharedPreferences[[]]. SharedPrefere
 nces позволяет сохранять
  []
 
 
-Underfull \hbox (badness 5331) in paragraph at lines 45--46
+Underfull \hbox (badness 5331) in paragraph at lines 195--196
 \TU/TimesNewRoman(1)/m/n/14.4 данные в виде пар ключ-значение. Android хранит S
 haredPreferences в
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 45--46
+Underfull \hbox (badness 2495) in paragraph at lines 195--196
 \TU/TimesNewRoman(1)/m/n/14.4 виде XML файла в папке sharedprefs. Это позволяет
  исключить потерю
  []
 
 
-Underfull \hbox (badness 2057) in paragraph at lines 45--46
+Underfull \hbox (badness 2057) in paragraph at lines 195--196
 \TU/TimesNewRoman(1)/m/n/14.4 токеннов при закрытии приложения и отказаться от 
 использования базы
  []
 
 
-Underfull \hbox (badness 6016) in paragraph at lines 45--46
+Underfull \hbox (badness 6016) in paragraph at lines 195--196
 \TU/TimesNewRoman(1)/m/n/14.4 и обеспечит необходимую безопасность. Для регистр
 ации пользователя
  []
 
-[23]
 File: images/login.png Graphic file (type bmp)
 <images/login.png>
+[29]
 File: images/registration.png Graphic file (type bmp)
 <images/registration.png>
 File: images/unaccept.png Graphic file (type bmp)
 <images/unaccept.png>
- [24]
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
-[]\TU/TimesNewRoman(1)/m/n/14.4 На данном этапе разработки приложения реализова
-н только
+ [30]
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+[]\TU/TimesNewRoman(1)/m/n/14.4 Основные и наиболее важные фрагменты реализован
+ного кода
  []
 
-
-Underfull \hbox (badness 2205) in paragraph at lines 56--57
-\TU/TimesNewRoman(1)/m/n/14.4 пользовательский интерфейс этой страницы. Бизнес-
-логику добавления и
- []
-
-[25]) (./inc/conclusion.tex
+[31]) (./inc/conclusion.tex
 Underfull \hbox (badness 4181) in paragraph at lines 2--3
 []\TU/TimesNewRoman(1)/m/n/14.4 В рамках выпускной квалификационной работы было
  разработано
@@ -1846,7 +2086,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 я не является
  []
 
-[26
+[32
+
 
 ]) (./inc/bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--10
@@ -1867,25 +2108,25 @@ microsoft.com/ru-
  []
 
 
-Underfull \hbox (badness 4940) in paragraph at lines 24--28
+Underfull \hbox (badness 4940) in paragraph at lines 18--22
 []\TU/TimesNewRoman(1)/m/n/14.4 MongoDB Documentation [Электронный ресурс] Режи
 м доступа:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--34
+Underfull \hbox (badness 10000) in paragraph at lines 24--28
 []\TU/TimesNewRoman(1)/m/n/14.4 Flask Documentation [Электронный ресурс] Режим 
 доступа:
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 36--40
+Underfull \hbox (badness 3312) in paragraph at lines 30--34
 []\TU/TimesNewRoman(1)/m/n/14.4 Flask-PyMongo 2.3.0 documentation [Электронный 
 ресурс] Режим
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 42--46
+Underfull \hbox (badness 1975) in paragraph at lines 36--40
 []\TU/TimesNewRoman(1)/m/n/14.4 Flask-JWT-Extended’s Documentation [Электронный
  ресурс] Режим
  []
@@ -1902,13 +2143,30 @@ Underfull \hbox (badness 3907) in paragraph at lines 73--77
 жим доступа:
  []
 
-[27
+[33
 
-]) (./inc/appA.tex [28
+]) (./inc/appA.tex [34
 
-] [29
+] [35
 
-] [30] [31] [32])
+] [36
+
+] [37
+
+] [38
+
+]) (./inc/appB.tex [39
+
+] [40
+
+]
+[41
+
+] [42
+
+] [43
+
+])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1945,20 +2203,20 @@ braces):
 >  {russian/Localnumeral}  =>  {Russiannumerals}.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
- (./main.aux
-(./inc/development_tools.aux) (./inc/development_server.aux))
+ (./main.aux (./inc/development_tools.aux)
+(./inc/development_server.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 25.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 370D5D4A79D549961FE7D3E4990680C3;1688.
+(rerunfilecheck)             Checksum: C8D647D1F92A4C74BD68E5422C53CB58;1896.
  ) 
 Here is how much of TeX's memory you used:
- 22158 strings out of 481804
- 395624 string characters out of 5937877
- 775062 words of memory out of 5000000
- 38756 multiletter control sequences out of 15000+600000
+ 22168 strings out of 481804
+ 395857 string characters out of 5937877
+ 781225 words of memory out of 5000000
+ 38766 multiletter control sequences out of 15000+600000
  535633 words of font info for 78 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,18n,98p,1365b,1725s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,18n,98p,1365b,998s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (33 pages).
+Output written on main.pdf (44 pages).
